@@ -1,0 +1,2 @@
+# Snippet
+my cpp snippet.
